@@ -1,0 +1,9 @@
+
+https://github.com/mslosarz/nextrtc-example-videochat
+
+1)mvn clean install
+2)java -jar target/videochat.war
+3)open 2 Firefox browsers with the following URL and do Video Chat
+  https://localhost:8443
+  
+  
